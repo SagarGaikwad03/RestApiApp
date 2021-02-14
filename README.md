@@ -2,12 +2,12 @@
 Spring Boot CRUD REST API + Spring Data JPA + H2 Database
 
 # Overview
-Methods	Urls	          Actions
-POST	  /v1/person	    Create New Person Entity
-GET	    /v1/person	    Retrive List Of All Person Entity
-GET	    /v1/person/:id	Retrive Person Entity by :id
-PUT	    /v1/person/:id	Update Person Entity by :id
-DELETE	/v1/person:id	  Delete a Person entity by :id
+APIs
+1. POST	  /v1/person	    Create New Person Entity
+2. GET	  /v1/person	    Retrive List Of All Person Entity
+3. GET	  /v1/person/:id	Retrive Person Entity by :id
+4. PUT	  /v1/person/:id	Update Person Entity by :id
+5. DELETE	/v1/person:id	  Delete a Person entity by :id
 
 # Tools and Technologies Used
 Spring Boot - 2.0.4.RELEASE
